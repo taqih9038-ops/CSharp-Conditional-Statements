@@ -11,7 +11,7 @@ class Question3
         // 1st line of output: ClassID, Registration ID, Name, Date
         string classId = "121183";
         string regId = "66409";
-        string name = "Syed Muhammad Hasnain Abdi";
+        string name = "Syed Ahsan Rizvi";
         string submissionDate = "28-10-2026";
         Console.WriteLine($"ClassID: {classId} | Reg ID: {regId} | Name: {name} | Date: {submissionDate}");
 
