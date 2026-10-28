@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Name** | Syed Muhammad Hasnain Abdi |
+| **Name** | Syed Ahsan Rizvi |
 | **Class ID** | 121183 |
 | **Registration ID** | 66409 |
 | **Submission Date** | 28-10-2026 |
